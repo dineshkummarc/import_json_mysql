@@ -1,0 +1,14 @@
+[  
+	{  
+		"firstname": "Claire",  
+		"lastname": "Temple",  
+		"gender": "Female",  
+		"address": "Racoon City"  
+	},
+	{  
+		"firstname": "John",  
+		"lastname": "Smith",  
+		"gender": "Male",  
+		"address": "New York"  
+	}
+]
